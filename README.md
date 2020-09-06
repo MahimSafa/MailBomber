@@ -8,6 +8,6 @@ to use it with gmail please enable <a href=https://myaccount.google.com/lesssecu
  -smtplib</br>
   pip3 install smtplib</br>
 # Usage
- gil clone https://github.com/MahimSafa/MailBomber.git</br>
+ git clone https://github.com/MahimSafa/MailBomber.git</br>
  cd MailBomber</br>
  python3 MBomb.py
