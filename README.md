@@ -1,4 +1,5 @@
 # MailBomber
+<img src=https://github.com/MahimSafa/MailBomber/raw/master/ebomb.png></img>
 Mail Bomber is a simple python tool for email bombing. Currently only works with gmail. You can also use it with other mail services by modifying smtp servers.
 to use it with gmail please enable <a href=https://myaccount.google.com/lesssecureapps> Login with less sesure apps</a>.
 # Requeirments 
