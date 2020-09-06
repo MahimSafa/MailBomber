@@ -3,9 +3,9 @@ print(banner.read())
 
 import smtplib
 
-sender_email = input(str("Enter The Your Gmail: "))
+sender_email = input(str("Enter Your Gmail: "))
 password = input(str("Enter The password: "))
-rec_email = input(str("Enter The Victim's Mail: "))
+rec_email = input(str("Enter Victim's Mail: "))
 message = input(str("Enter Your Message: "))
 
 server = smtplib.SMTP('smtp.gmail.com', 587)
